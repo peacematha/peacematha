@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peacematha
 
--  About Peace
+-  About: Peace
 Seasoned Software Engineer with over 6 years of experience working in the Public Sector, financial sector, and
 Insurance Sector, within the Business Intelligence and data engineering space. Born Full stack developer and
 solution-driven, logical thinker. Always learning and evolving because stagnation equals obsoletion.
